@@ -1,5 +1,6 @@
 ﻿string name;
 
+
 Console.WriteLine("Skriv in ditt namn");
 
 name = Console.ReadLine();
