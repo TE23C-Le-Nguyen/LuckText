@@ -1,0 +1,14 @@
+c:\Users\gia.le\pro1\LuckText\LuckText\bin\Debug\net8.0\LuckText.exe
+c:\Users\gia.le\pro1\LuckText\LuckText\bin\Debug\net8.0\LuckText.deps.json
+c:\Users\gia.le\pro1\LuckText\LuckText\bin\Debug\net8.0\LuckText.runtimeconfig.json
+c:\Users\gia.le\pro1\LuckText\LuckText\bin\Debug\net8.0\LuckText.dll
+c:\Users\gia.le\pro1\LuckText\LuckText\bin\Debug\net8.0\LuckText.pdb
+c:\Users\gia.le\pro1\LuckText\LuckText\obj\Debug\net8.0\LuckText.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\gia.le\pro1\LuckText\LuckText\obj\Debug\net8.0\LuckText.AssemblyInfoInputs.cache
+c:\Users\gia.le\pro1\LuckText\LuckText\obj\Debug\net8.0\LuckText.AssemblyInfo.cs
+c:\Users\gia.le\pro1\LuckText\LuckText\obj\Debug\net8.0\LuckText.csproj.CoreCompileInputs.cache
+c:\Users\gia.le\pro1\LuckText\LuckText\obj\Debug\net8.0\LuckText.dll
+c:\Users\gia.le\pro1\LuckText\LuckText\obj\Debug\net8.0\refint\LuckText.dll
+c:\Users\gia.le\pro1\LuckText\LuckText\obj\Debug\net8.0\LuckText.pdb
+c:\Users\gia.le\pro1\LuckText\LuckText\obj\Debug\net8.0\LuckText.genruntimeconfig.cache
+c:\Users\gia.le\pro1\LuckText\LuckText\obj\Debug\net8.0\ref\LuckText.dll
